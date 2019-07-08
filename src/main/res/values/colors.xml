@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="uchoa">#7ed321</color>
+    <color name="colorPrimary">#000</color>
 </resources>
